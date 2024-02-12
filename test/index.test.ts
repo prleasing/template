@@ -1,8 +1,9 @@
-import { expect, it, describe } from "vitest";
+import { describe, expect, it } from "vitest";
+
 import {} from "../src";
 
 describe("packageName", () => {
-  it.todo("pass", () => {
-    expect(true).toBe(true);
-  });
+	it.todo("pass", () => {
+		expect(true).toBe(true);
+	});
 });
